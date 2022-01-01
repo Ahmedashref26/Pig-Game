@@ -19,7 +19,7 @@ The pig game is a two player board game.
 Clone the Project
 
 ```bash
-git clone https://github.com/Ahmedashref26/pig-game.git
+git clone https://github.com/Ahmedashref26/Pig-Game.git
 ```
 
 ---
