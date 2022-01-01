@@ -13,3 +13,25 @@ The pig game is a two player board game.
 
 ## How to win:
 * The first player to reach 100 points on `GLOBAL` wins the game.
+
+## Quick start
+
+Clone the Project
+
+```bash
+git clone https://github.com/Ahmedashref26/pig-game.git
+```
+
+---
+
+[![Pig-game](main.png)](main.png)
+
+## Flow Chart
+
+[![Pig-game](pig-game-flowchart.png)](pig-game-flowchart.png)
+
+---
+
+## License
+
+MIT
